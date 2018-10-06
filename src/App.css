@@ -1,0 +1,59 @@
+html, body {
+  height: 100vh;
+}
+
+.container-test {
+  height: calc(100vh - 56px);
+}
+
+.carousel {
+ margin-top: 50px;
+}
+
+.container-test.white{
+  background-color: white;
+}
+
+.container-test.red{
+  background-color: #f44336;
+}
+
+.container-test.pink{
+  background-color: #f06292;
+}
+
+.container-test.green{
+  background-color: #4caf50;
+}
+
+.container-test.blue{
+  background-color: #2196f3;
+}
+
+.container-test.orange{
+  background-color: #ff9800;
+}
+
+.container-test.brown{
+  background-color: #795548;
+}
+
+.container-test.black{
+  background-color: #000000;
+}
+
+.container-test.grey{
+  background-color: #9e9e9e ;
+}
+
+.container-test.purple{
+  background-color: #9c27b0;
+}
+
+.container-test.yellow{
+  background-color: #ffeb3b;
+}
+
+.navbar-link {
+  padding: 0.5rem 2rem !important;
+}
